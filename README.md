@@ -1,4 +1,5 @@
 # SevenSeg_Display-NexysDDR4
+Using verilog & Vivado, used a push button to turn off each segment display
 
 Demo of the program using NexysDDR4
 
